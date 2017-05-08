@@ -1,4 +1,8 @@
 Ciao! Sono uno studente e frequento un corso IFOA
+<<<<<<< HEAD
 asdfkjh
 asd
 asfkkjasdgfgasdgas
+=======
+aslhfasgdfgasdfkjgaskjdgfkjasdgfkjgdkjs
+>>>>>>> newBranch
